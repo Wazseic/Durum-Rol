@@ -31,7 +31,7 @@
 
 ```bash
 git clone https://github.com/Wazseic/Durum-Rol.git
-cd durum-rol-botu
+cd Durum-Rol
 npm i
 ```
 
