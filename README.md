@@ -30,7 +30,7 @@
 ## 📦 Kurulum
 
 ```bash
-git clone https://github.com/KULLANICI/durum-rol-botu.git
+git clone https://github.com/Wazseic/Durum-Rol.git
 cd durum-rol-botu
 npm i
 ```
